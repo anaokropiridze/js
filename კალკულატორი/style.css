@@ -1,0 +1,19 @@
+.main {
+  width: 800px;
+  height: 40px;
+  margin: 50px auto;
+  display: flex;
+  gap: 5px;
+}
+.p {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  p {
+    padding: 0px 10px;
+  }
+}
+#equal {
+  padding: 10px;
+}
